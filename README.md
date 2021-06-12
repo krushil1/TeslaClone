@@ -1,10 +1,11 @@
 
-![](https://raw.githubusercontent.com/krushil1/TeslaClone/main/example.png)
+
+## Simple Tesla Application developed using React Native and Expo Client 
 
 
-###Simple Tesla Application developed using React Native and Expo Client to learn React
-
-##More Examples:
-![](https://raw.githubusercontent.com/krushil1/TeslaClone/main/moreExamples2.png)
-![](https://raw.githubusercontent.com/krushil1/TeslaClone/main/moreExamples1.png)
-![](https://raw.githubusercontent.com/krushil1/TeslaClone/main/moreExamples3.png)
+<p float="left">
+  <img src="https://raw.githubusercontent.com/krushil1/TeslaClone/main/example.png" width="400" />
+  <img src="https://raw.githubusercontent.com/krushil1/TeslaClone/main/moreExamples2.png" width="400" /> 
+  <img src="https://raw.githubusercontent.com/krushil1/TeslaClone/main/moreExamples1.png" width="400" />
+  <img src="https://raw.githubusercontent.com/krushil1/TeslaClone/main/moreExamples3.png" width="400" />
+</p>
